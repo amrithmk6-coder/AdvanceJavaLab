@@ -10,4 +10,18 @@ RemoveNth :https://github.com/user-attachments/assets/7f344f3a-fec0-4b1c-a6bd-11
 
 SublistExample :https://github.com/user-attachments/assets/1a342d8d-2efc-4347-b295-0a8f0cf8f5b9
 
+IteratorFromSecond:https://github.com/user-attachments/assets/ffcacb72-d0fc-4fc4-98c5-45bec0c3cc16
+
+
+
+Reverse Iteration:https://github.com/user-attachments/assets/7c19c7f8-d78b-44dc-a66b-01abc2c2f9eb
+
+
+InsertAtend:https://github.com/user-attachments/assets/fecde7cb-5d07-49a3-85be-41830a2f6a43
+
+DisplayWithPosition:https://github.com/user-attachments/assets/0ece0a45-e317-4f76-8854-69e44a3852b4
+
+
+SwapElements:https://github.com/user-attachments/assets/35b19f1d-2fe7-44e8-a9c5-5152796ecfcf
+
 
