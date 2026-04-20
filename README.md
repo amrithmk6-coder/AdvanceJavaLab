@@ -38,3 +38,22 @@ Palindromecheck:https://github.com/user-attachments/assets/4baf5a7a-5033-4667-99
 
 RemoveWhiteSpace:https://github.com/user-attachments/assets/7b9cf08b-be45-41b5-a407-d135069e5ad1
 
+CapitalizeWords:https://github.com/user-attachments/assets/452d9338-ae5a-4fc0-93b0-9e9f1928f3d7
+
+TruncateString:https://github.com/user-attachments/assets/f82e2007-4996-44d7-815c-feb671f2aed5
+
+IsNumeric:https://github.com/user-attachments/assets/1eb3bac1-8bd6-4c11-9081-35ff8ccbf8f0
+
+
+RandomString:https://github.com/user-attachments/assets/b3b3d03d-816f-44d0-b822-7629f956bbff
+
+
+WordCount:https://github.com/user-attachments/assets/8f05cdb3-dc6f-48cc-ae7b-b9f084e4f2d6
+
+
+
+
+
+
+
+
