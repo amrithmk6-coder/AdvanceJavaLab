@@ -1,0 +1,20 @@
+import java.util.*;
+
+public class IterateFromSecond {
+    public static void main(String[] args) {
+        LinkedList<String> listobj = new LinkedList<>();
+
+        listobj.add("Red");
+        listobj.add("Blue");
+        listobj.add("Green");
+        listobj.add("Yellow");
+
+        // Start from index 1 (2nd position)
+        ListIterator<String> iteratorobj = listobj.listIterator(1);
+
+        System.out.println("Elements from 2nd position:");
+        while (iteratorobj.hasNext()) {
+            System.out.println(iteratorobj.next());
+        }
+    }
+}
