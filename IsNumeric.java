@@ -1,3 +1,7 @@
+/**
+Write a Java Program for Verifying if a string contains only numeric characters using user defined
+function isNumeric()
+    **/
 package capital;
 public class IsNumeric {
     static boolean isNumeric(String str) {
