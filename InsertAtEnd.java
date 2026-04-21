@@ -1,5 +1,5 @@
-package isertatend;
-
+/**
+Write a Java program to insert the specified element at the end of a LinkedList using l_listobj.offerLast("Pink")**/
 import java.util.*;
 
 public class InsertAtEnd {
